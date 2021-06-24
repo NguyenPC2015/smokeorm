@@ -1,0 +1,24 @@
+{
+  "name": "smokeorm",
+  "version": "1.0.0",
+  "description": "An orm for Relation database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NguyenPC2015/smokeorm.git"
+  },
+  "keywords": [
+    "orm",
+    "sql",
+    "database"
+  ],
+  "author": "Nguyen Tran",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/NguyenPC2015/smokeorm/issues"
+  },
+  "homepage": "https://github.com/NguyenPC2015/smokeorm#readme"
+}
