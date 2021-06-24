@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/NguyenPC2015/smokeorm/issues"
   },
-  "homepage": "https://github.com/NguyenPC2015/smokeorm#readme"
+  "homepage": "https://github.com/NguyenPC2015/smokeorm#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
 }
